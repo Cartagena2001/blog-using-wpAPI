@@ -1,3 +1,9 @@
+## Blog creado usando NEXT con react, haciendo uso de la API REST de WordPress
+
+
+![alt text](https://i.imgur.com/OUOw8XV.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
